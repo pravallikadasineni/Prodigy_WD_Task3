@@ -1,5 +1,3 @@
-https://github.com/user-attachments/assets/17a29445-3113-4c7e-8307-0489ba81fd78
-
 https://github.com/user-attachments/assets/6b074e67-3a60-4188-b6f8-e63c64e47fd5
 The code for the above video:
 index.html
