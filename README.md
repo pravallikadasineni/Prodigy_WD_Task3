@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/6b074e67-3a60-4188-b6f8-e63c64e47fd5
+https://github.com/user-attachments/assets/4ab51be4-d8bf-49ad-9ab1-fc322b6a95f6
 The code for the above video:
 index.html
 import random
