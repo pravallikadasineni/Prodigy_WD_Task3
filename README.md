@@ -1,10 +1,8 @@
 https://github.com/user-attachments/assets/17a29445-3113-4c7e-8307-0489ba81fd78
 
-
-
 https://github.com/user-attachments/assets/6b074e67-3a60-4188-b6f8-e63c64e47fd5
-
-
+The code for the above video:
+index.html
 import random
 text_data = """
 Artificial intelligence is changing the world. 
@@ -36,6 +34,7 @@ def generate_text(start_word, length=10):
 print("Generated Text Output:")
 print(generate_text("machine", length=8))
 
+script.jss
 import random
 text_data = """
 Python is a powerful programming language. 
